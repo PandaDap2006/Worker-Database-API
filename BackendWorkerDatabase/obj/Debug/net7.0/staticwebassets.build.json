@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NS9Xfb+DUSOlpOKbUw4jMRxjh4vu04j15gsEjNPWyG8=",
+  "Source": "BackendWorkerDatabase",
+  "BasePath": "_content/BackendWorkerDatabase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

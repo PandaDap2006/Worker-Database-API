@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend Worker Database", "Backend Worker Database\Backend Worker Database.csproj", "{5DC3D27F-9AF2-48C5-B1F2-71B9B8F94375}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendWorkerDatabase", "BackendWorkerDatabase\BackendWorkerDatabase.csproj", "{5DC3D27F-9AF2-48C5-B1F2-71B9B8F94375}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
